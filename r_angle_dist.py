@@ -46,9 +46,15 @@ lidar =  openPort('/dev/ttyTHS1', 115200)
 
 while True:
     distance_cm = read_distance(lidar)
-    print(f"Distance: {distance_cm} cm")
+ #   print(f"Distance: {distance_cm} cm")
     
     angle = calibr(aoa_board)
-    print(f"Angle: {angle} degrees")
-    
-    time.sleep(1)  
+  #  print(f"Angle: {angle} degrees")
+    if distance_cm < 500 and distance_cm > 300:
+        print(f"Object detectect at {distance_cm} cm, angle: {angle} degrees")
+        print(f"Moving formard")  
+    elif distance_cm < 300: 
+        print(f"Object too close at {distance_cm} cm, angle: {angle} degrees")
+        print(f"Stopping")
+
+    time.sleep(0.1) 

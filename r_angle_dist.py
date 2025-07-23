@@ -58,3 +58,12 @@ while True:
         print(f"Stopping")
 
     time.sleep(0.1) 
+
+
+    #this is the logic a i understood about assignment itslef 
+    # the code reads distance from a lidar sensor and angle from an aoa board
+    # if the distance is between 300 and 500 cm, it prints a message to
+    # move forward, if the distance is less than 300 cm, it prints a message
+    # to stop. board is pretty inaccurate, so additional method of validation would be good. 
+    # Also, data from lidar streaming continuously, so would be better to make lidar to stream 
+    # data once a second or so. 

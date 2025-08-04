@@ -1,0 +1,1650 @@
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 102.57 cm
+Object too close, stopping
+Distance: 102.57 cm
+Object too close, stopping
+Distance: 102.57 cm
+Object too close, stopping
+Distance: 102.57 cm
+Object too close, stopping
+Distance: 111.82 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 166.06 cm
+Object too close, stopping
+Distance: 139.10 cm
+Object too close, stopping
+Distance: 131.09 cm
+Object too close, stopping
+Distance: 124.90 cm
+Object too close, stopping
+Distance: 119.50 cm
+Object too close, stopping
+Distance: 119.50 cm
+Object too close, stopping
+Distance: 119.50 cm
+Object too close, stopping
+Distance: 119.50 cm
+Object too close, stopping
+Distance: 131.09 cm
+Object too close, stopping
+Distance: 131.09 cm
+Object too close, stopping
+Distance: 136.74 cm
+Object too close, stopping
+Distance: 147.71 cm
+Object too close, stopping
+Distance: 147.71 cm
+Object too close, stopping
+Distance: 155.04 cm
+Object too close, stopping
+Distance: 155.04 cm
+Object too close, stopping
+Distance: 160.71 cm
+Object too close, stopping
+Distance: 160.71 cm
+Object too close, stopping
+Distance: 160.71 cm
+Object too close, stopping
+Distance: 160.71 cm
+Object too close, stopping
+Distance: 160.71 cm
+Object too close, stopping
+Distance: 160.71 cm
+Object too close, stopping
+Distance: 153.02 cm
+Object too close, stopping
+Distance: 153.02 cm
+Object too close, stopping
+Distance: 153.02 cm
+Object too close, stopping
+Distance: 153.02 cm
+Object too close, stopping
+Distance: 153.02 cm
+Object too close, stopping
+Distance: 141.26 cm
+Object too close, stopping
+Distance: 141.26 cm
+Object too close, stopping
+Distance: 141.26 cm
+Object too close, stopping
+Distance: 141.26 cm
+Object too close, stopping
+Distance: 141.26 cm
+Object too close, stopping
+Distance: 136.16 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 130.71 cm
+Object too close, stopping
+Distance: 125.79 cm
+Object too close, stopping
+Distance: 120.78 cm
+Object too close, stopping
+Distance: 115.68 cm
+Object too close, stopping
+Distance: 115.68 cm
+Object too close, stopping
+Distance: 105.27 cm
+Object too close, stopping
+Distance: 89.26 cm
+Object too close, stopping
+Distance: 67.67 cm
+Object too close, stopping
+Distance: 56.41 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 207.53 cm
+Object too close, stopping
+Distance: 207.53 cm
+Object too close, stopping
+Distance: 207.53 cm
+Object too close, stopping
+Distance: 207.53 cm
+Object too close, stopping
+Distance: 207.53 cm
+Object too close, stopping
+Distance: 142.83 cm
+Object too close, stopping
+Distance: 138.28 cm
+Object too close, stopping
+Distance: 126.63 cm
+Object too close, stopping
+Distance: 126.63 cm
+Object too close, stopping
+Distance: 120.57 cm
+Object too close, stopping
+Distance: 114.82 cm
+Object too close, stopping
+Distance: 112.04 cm
+Object too close, stopping
+Distance: 112.04 cm
+Object too close, stopping
+Distance: 112.04 cm
+Object too close, stopping
+Distance: 112.04 cm
+Object too close, stopping
+Distance: 112.04 cm
+Object too close, stopping
+Distance: 109.33 cm
+Object too close, stopping
+Distance: 106.54 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 100.77 cm
+Object too close, stopping
+Distance: 103.18 cm
+Object too close, stopping
+Distance: 125.65 cm
+Object too close, stopping
+Distance: 129.61 cm
+Object too close, stopping
+Distance: 138.24 cm
+Object too close, stopping
+Distance: 142.18 cm
+Object too close, stopping
+Distance: 147.64 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 151.65 cm
+Object too close, stopping
+Distance: 147.64 cm
+Object too close, stopping
+Distance: 153.71 cm
+Object too close, stopping
+Distance: 153.71 cm
+Object too close, stopping
+Distance: 153.71 cm
+Object too close, stopping
+Distance: 160.50 cm
+Object too close, stopping
+Distance: 160.50 cm
+Object too close, stopping
+Distance: 151.13 cm
+Object too close, stopping
+Distance: 151.13 cm
+Object too close, stopping
+Distance: 151.13 cm
+Object too close, stopping
+Distance: 151.13 cm
+Object too close, stopping
+Distance: 120.23 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 201.51 cm
+Object too close, stopping
+Distance: 201.51 cm
+Object too close, stopping
+Distance: 212.45 cm
+Object too close, stopping
+Distance: 225.04 cm
+Object too close, stopping
+Distance: 225.04 cm
+Object too close, stopping
+Distance: 225.04 cm
+Object too close, stopping
+Distance: 225.04 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 239.69 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 243.83 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 261.48 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 256.98 cm
+Object too close, stopping
+Distance: 130.59 cm
+Object too close, stopping
+Distance: 130.59 cm
+Object too close, stopping
+Distance: 130.59 cm
+Object too close, stopping
+Distance: 130.59 cm
+Object too close, stopping
+Distance: 122.39 cm
+Object too close, stopping
+Distance: 122.39 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 105.76 cm
+Object too close, stopping
+Distance: 105.76 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 114.11 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 120.99 cm
+Object too close, stopping
+Distance: 129.36 cm
+Object too close, stopping
+Distance: 129.36 cm
+Object too close, stopping
+Distance: 129.36 cm
+Object too close, stopping
+Distance: 129.36 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 94.63 cm
+Object too close, stopping
+Distance: 91.70 cm
+Object too close, stopping
+Distance: 89.05 cm
+Object too close, stopping
+Distance: 89.05 cm
+Object too close, stopping
+Distance: 74.04 cm
+Object too close, stopping
+Distance: 74.04 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 72.65 cm
+Object too close, stopping
+Distance: 74.04 cm
+Object too close, stopping
+Distance: 74.04 cm
+Object too close, stopping
+Distance: 75.51 cm
+Object too close, stopping
+Distance: 89.05 cm
+Object too close, stopping
+Distance: 89.05 cm
+Object too close, stopping
+Distance: 89.05 cm
+Object too close, stopping
+Distance: 91.70 cm
+Object too close, stopping
+Distance: 94.63 cm
+Object too close, stopping
+Distance: 91.70 cm
+Object too close, stopping
+Distance: 94.63 cm
+Object too close, stopping
+Distance: 94.63 cm
+Object too close, stopping
+Distance: 94.63 cm
+Object too close, stopping
+Distance: 115.68 cm
+Object too close, stopping
+Distance: 115.68 cm
+Object too close, stopping
+Distance: 115.68 cm
+Object too close, stopping
+Distance: 115.68 cm
+Object too close, stopping
+Distance: 120.78 cm
+Object too close, stopping
+Distance: 120.78 cm
+Object too close, stopping
+Distance: 120.78 cm
+Object too close, stopping
+Distance: 120.78 cm
+Object too close, stopping
+Distance: 120.78 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 57.10 cm
+Object too close, stopping
+Distance: 56.41 cm
+Object too close, stopping
+Distance: 56.41 cm
+Object too close, stopping
+Distance: 56.41 cm
+Object too close, stopping
+Distance: 51.02 cm
+Object too close, stopping
+Distance: 50.75 cm
+Object too close, stopping
+Distance: 50.75 cm
+Object too close, stopping
+Distance: 50.75 cm
+Object too close, stopping
+Distance: 50.75 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 50.75 cm
+Object too close, stopping
+Distance: 65.69 cm
+Object too close, stopping
+Distance: 70.42 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 109.58 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 171.97 cm
+Object too close, stopping
+Distance: 202.96 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 354.35 cm
+Object detected, moving forward
+Distance: 354.35 cm
+Object detected, moving forward
+Distance: 354.35 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 354.35 cm
+Object detected, moving forward
+Distance: 354.35 cm
+Object detected, moving forward
+Distance: 551.69 cm
+Distance: 551.69 cm
+Distance: 551.69 cm
+Distance: 551.69 cm
+Distance: 551.69 cm
+Distance: 551.69 cm
+Distance: 1055.96 cm
+Distance: 1055.96 cm
+Distance: 1055.96 cm
+Distance: 1055.96 cm
+Distance: 551.69 cm
+Distance: 551.69 cm
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 280.90 cm
+Object too close, stopping
+Distance: 234.45 cm
+Object too close, stopping
+Distance: 187.77 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 140.92 cm
+Object too close, stopping
+Distance: 140.92 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 177.43 cm
+Object too close, stopping
+Distance: 231.57 cm
+Object too close, stopping
+Distance: 249.20 cm
+Object too close, stopping
+Distance: 551.69 cm
+Distance: 383.65 cm
+Object detected, moving forward
+Distance: 215.56 cm
+Object too close, stopping
+Distance: 215.56 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 173.42 cm
+Object too close, stopping
+Distance: 173.42 cm
+Object too close, stopping
+Distance: 173.42 cm
+Object too close, stopping
+Distance: 149.45 cm
+Object too close, stopping
+Distance: 139.10 cm
+Object too close, stopping
+Distance: 139.10 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 123.47 cm
+Object too close, stopping
+Distance: 139.10 cm
+Object too close, stopping
+Distance: 139.10 cm
+Object too close, stopping
+Distance: 149.45 cm
+Object too close, stopping
+Distance: 149.45 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 57.19 cm
+Object too close, stopping
+Distance: 88.24 cm
+Object too close, stopping
+Distance: 98.60 cm
+Object too close, stopping
+Distance: 98.60 cm
+Object too close, stopping
+Distance: 98.60 cm
+Object too close, stopping
+Distance: 105.20 cm
+Object too close, stopping
+Distance: 105.20 cm
+Object too close, stopping
+Distance: 113.65 cm
+Object too close, stopping
+Distance: 113.65 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 109.33 cm
+Object too close, stopping
+Distance: 109.33 cm
+Object too close, stopping
+Distance: 109.33 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 231.57 cm
+Object too close, stopping
+Distance: 249.20 cm
+Object too close, stopping
+Distance: 249.20 cm
+Object too close, stopping
+Distance: 258.41 cm
+Object too close, stopping
+Distance: 258.41 cm
+Object too close, stopping
+Distance: 272.21 cm
+Object too close, stopping
+Distance: 272.21 cm
+Object too close, stopping
+Distance: 272.21 cm
+Object too close, stopping
+Distance: 285.72 cm
+Object too close, stopping
+Distance: 285.72 cm
+Object too close, stopping
+Distance: 285.72 cm
+Object too close, stopping
+Distance: 285.72 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 251.76 cm
+Object too close, stopping
+Distance: 228.30 cm
+Object too close, stopping
+Distance: 228.30 cm
+Object too close, stopping
+Distance: 228.30 cm
+Object too close, stopping
+Distance: 228.30 cm
+Object too close, stopping
+Distance: 228.30 cm
+Object too close, stopping
+Distance: 195.11 cm
+Object too close, stopping
+Distance: 184.34 cm
+Object too close, stopping
+Distance: 184.34 cm
+Object too close, stopping
+Distance: 184.34 cm
+Object too close, stopping
+Distance: 159.31 cm
+Object too close, stopping
+Distance: 159.31 cm
+Object too close, stopping
+Distance: 159.31 cm
+Object too close, stopping
+Distance: 149.45 cm
+Object too close, stopping
+Distance: 129.36 cm
+Object too close, stopping
+Distance: 139.78 cm
+Object too close, stopping
+Distance: 128.34 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 163.96 cm
+Object too close, stopping
+Distance: 163.96 cm
+Object too close, stopping
+Distance: 163.96 cm
+Object too close, stopping
+Distance: 140.69 cm
+Object too close, stopping
+Distance: 140.69 cm
+Object too close, stopping
+Distance: 117.33 cm
+Object too close, stopping
+Distance: 84.44 cm
+Object too close, stopping
+Distance: 65.69 cm
+Object too close, stopping
+Distance: 60.25 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 56.11 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 333.24 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 317.05 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 384.31 cm
+Object detected, moving forward
+Distance: 363.69 cm
+Object detected, moving forward
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 232.80 cm
+Object too close, stopping
+Distance: 232.80 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 213.72 cm
+Object too close, stopping
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 463.31 cm
+Object detected, moving forward
+Distance: 418.33 cm
+Object detected, moving forward
+Distance: 327.07 cm
+Object detected, moving forward
+Distance: 234.45 cm
+Object too close, stopping
+Distance: 140.92 cm
+Object too close, stopping
+Distance: 93.97 cm
+Object too close, stopping
+Distance: 93.97 cm
+Object too close, stopping
+Distance: 93.97 cm
+Object too close, stopping
+Distance: 140.92 cm
+Object too close, stopping
+Distance: 280.90 cm
+Object too close, stopping
+Distance: 280.90 cm
+Object too close, stopping
+Distance: 280.90 cm
+Object too close, stopping
+Distance: 327.07 cm
+Object detected, moving forward
+Distance: 327.07 cm
+Object detected, moving forward
+Distance: 327.07 cm
+Object detected, moving forward
+Distance: 327.07 cm
+Object detected, moving forward
+Distance: 327.07 cm
+Object detected, moving forward
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 140.31 cm
+Object too close, stopping
+Distance: 102.57 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 97.35 cm
+Object too close, stopping
+Distance: 88.91 cm
+Object too close, stopping
+Distance: 80.45 cm
+Object too close, stopping
+Distance: 80.45 cm
+Object too close, stopping
+Distance: 74.65 cm
+Object too close, stopping
+Distance: 93.74 cm
+Object too close, stopping
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: nan cm
+Distance: inf cm
+Distance: inf cm
+Distance: 83.97 cm
+Object too close, stopping
+Distance: 102.57 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 170.87 cm
+Object too close, stopping
+Distance: 159.04 cm
+Object too close, stopping
+Distance: 171.97 cm
+Object too close, stopping
+Distance: 171.97 cm
+Object too close, stopping
+Distance: 171.97 cm
+Object too close, stopping
+Distance: 171.97 cm
+Object too close, stopping
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: inf cm
+Distance: 234.86 cm
+Object too close, stopping
+Distance: 234.86 cm
+Object too close, stopping
+Distance: 234.86 cm
+Object too close, stopping
+Distance: 234.86 cm
+Object too close, stopping
+Distance: 109.58 cm
+Object too close, stopping
+Distance: 109.58 cm
+Object too close, stopping
+Distance: 93.89 cm
+Object too close, stopping
+Distance: 73.59 cm
+Object too close, stopping
+Distance: 93.89 cm
+Object too close, stopping
+Distance: 93.89 cm
+Object too close, stopping
+Distance: 93.89 cm
+Object too close, stopping
+Distance: 93.89 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 187.08 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 233.76 cm
+Object too close, stopping
+Distance: 171.97 cm
+Object too close, stopping
+Distance: 140.83 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 92.97 cm
+Object too close, stopping
+Distance: 92.97 cm
+Object too close, stopping
+Distance: 108.92 cm
+Object too close, stopping
+Distance: 108.92 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 116.80 cm
+Object too close, stopping
+Distance: 124.86 cm
+Object too close, stopping
+Distance: 124.86 cm
+Object too close, stopping
+Distance: 124.86 cm
+Object too close, stopping
+Distance: 124.86 cm
+Object too close, stopping
+Distance: 140.52 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 140.69 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 78.28 cm
+Object too close, stopping
+Distance: 93.97 cm
+Object too close, stopping
+Distance: 93.97 cm
+Object too close, stopping
+Distance: 140.98 cm
+Object too close, stopping
+Distance: 140.98 cm
+Object too close, stopping
+Distance: 47.00 cm
+Object too close, stopping
+Distance: 140.69 cm
+Object too close, stopping
+Distance: 163.96 cm
+Object too close, stopping
+Distance: 280.90 cm
+Object too close, stopping
+Distance: 202.96 cm
+Object too close, stopping
+Distance: 202.96 cm
+Object too close, stopping
+Distance: 202.96 cm
+Object too close, stopping
+Distance: 210.04 cm
+Object too close, stopping
+Distance: 210.04 cm
+Object too close, stopping
+Distance: 163.96 cm
+Object too close, stopping
+Distance: 210.04 cm
+Object too close, stopping
+Distance: 232.80 cm
+Object too close, stopping
+Distance: 232.80 cm
+Object too close, stopping
+Distance: 232.80 cm
+Object too close, stopping
+Distance: 255.34 cm
+Object too close, stopping
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 324.67 cm
+Object detected, moving forward
+Distance: 234.45 cm
+Object too close, stopping
+Distance: 234.45 cm
+Object too close, stopping
+Distance: 234.45 cm
+Object too close, stopping
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 421.83 cm
+Object detected, moving forward
+Distance: 121.90 cm
+Object too close, stopping
+Distance: 109.33 cm
+Object too close, stopping
+Distance: 109.33 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 113.65 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 126.90 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 153.13 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 100.33 cm
+Object too close, stopping
+Distance: 191.50 cm
+Object too close, stopping
+Distance: 240.15 cm
+Object too close, stopping
+Distance: 272.21 cm
+Object too close, stopping
+Distance: 1474.28 cm
+Distance: 1474.28 cm
+Distance: 1474.28 cm
+Distance: 1474.28 cm
+Distance: 838.96 cm
+Distance: 575.35 cm
+Distance: 575.35 cm
+Distance: 575.35 cm
+Distance: 549.63 cm
+Distance: 523.31 cm
+Distance: 523.31 cm
+Distance: 523.31 cm
+Distance: 523.31 cm
+Distance: 496.41 cm
+Object detected, moving forward
+Distance: 496.41 cm
+Object detected, moving forward
+Distance: 468.95 cm
+Object detected, moving forward
+Distance: 468.95 cm
+Object detected, moving forward
+Distance: 637.62 cm
+Distance: 1142.50 cm
+Distance: 1142.50 cm
+Distance: 1142.50 cm
+Distance: 1142.50 cm
+Distance: 342.69 cm
+Object detected, moving forward
+Distance: 266.59 cm
+Object too close, stopping
+Distance: 159.31 cm
+Object too close, stopping
+Distance: 159.31 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 101.55 cm
+Object too close, stopping
+Distance: 249.20 cm
+Object too close, stopping
+Distance: 138.70 cm
+Object too close, stopping
+Distance: 138.70 cm
+Object too close, stopping
+Distance: 130.91 cm
+Object too close, stopping
+Distance: 124.29 cm
+Object too close, stopping
+Distance: 124.29 cm
+Object too close, stopping
+Distance: 131.09 cm
+Object too close, stopping
+Distance: 131.09 cm
+Object too close, stopping
+Distance: 137.79 cm
+Object too close, stopping
+Distance: 216.70 cm
+Object too close, stopping
+Distance: 220.98 cm
+Object too close, stopping
+Distance: 220.98 cm
+Object too close, stopping
+Distance: 220.98 cm
+Object too close, stopping
+Distance: 216.70 cm
+Object too close, stopping
+Distance: 216.70 cm
+Object too close, stopping
+Distance: 216.70 cm
+Object too close, stopping
+Distance: 216.70 cm
+Object too close, stopping
+Distance: 204.68 cm
+Object too close, stopping
+Distance: 204.68 cm
+Object too close, stopping
+Distance: 208.66 cm
+Object too close, stopping
+Distance: 208.66 cm
+Object too close, stopping
+Distance: 208.66 cm
+Object too close, stopping
+Distance: 208.66 cm
+Object too close, stopping
+Distance: 208.66 cm
+Object too close, stopping
+Distance: 204.68 cm
+Object too close, stopping
+Distance: 204.68 cm
+Object too close, stopping
+Distance: 194.23 cm
+Object too close, stopping
+Distance: 194.23 cm
+Object too close, stopping
+Distance: 194.23 cm
+Object too close, stopping
+Distance: 194.23 cm
+Object too close, stopping
+Distance: 197.96 cm
+Object too close, stopping
+Distance: 194.23 cm
+Object too close, stopping
+Distance: 194.23 cm
+Object too close, stopping
